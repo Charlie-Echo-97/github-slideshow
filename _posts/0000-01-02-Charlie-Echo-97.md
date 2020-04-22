@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Sometimes death is a kindness"
 Use the left arrow to go back!
